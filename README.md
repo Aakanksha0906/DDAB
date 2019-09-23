@@ -1,2 +1,2 @@
 # DDAB
-# DDAB Automatic trigger
+# DDAB Automatic Trigger
